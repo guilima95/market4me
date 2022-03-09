@@ -1,2 +1,2 @@
-# bet-manager
-betting manager, analysis, losses and wins
+# market4me
+market manager, analysis, market buy...
